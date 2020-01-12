@@ -1,0 +1,68 @@
+[
+    {
+        "id": "38070092",
+        "name": "Elora Pullover Sweater",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsSweaterCardigans",
+        "variant": "IVORY",
+        "list_position": "1.0",
+        "quantity": "1.0",
+        "price": "88.0"
+    },
+    {
+        "id": "38070092",
+        "name": "Elora Pullover Sweater",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsSweaterCardigans",
+        "variant": "BLACK",
+        "list_position": "2.0",
+        "quantity": "1.0",
+        "price": "88.0"
+    },
+    {
+        "id": "38070087",
+        "name": "Arbutus Twill Sweater",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsSweaterCardigans",
+        "variant": "BERING SEA",
+        "list_position": "3.0",
+        "quantity": "1.0",
+        "price": "88.0"
+    },
+    {
+        "id": "38070087",
+        "name": "Arbutus Twill Sweater",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsSweaterCardigans",
+        "variant": "SALT &amp; PEPPER",
+        "list_position": "4.0",
+        "quantity": "1.0",
+        "price": "88.0"
+    },
+    {
+        "id": "38020106",
+        "name": "New Jules Top",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsLongSleeveTops",
+        "variant": "SNOWY ICE MIX",
+        "list_position": "5.0",
+        "quantity": "1.0",
+        "price": "38.0"
+    },
+    {
+        "id": "38020106",
+        "name": "New Jules Top",
+        "list_name": "Womens: WomensCategories: WomensTops",
+        "brand": "Roots",
+        "category": "WomensCategories/WomensTopsLongSleeveTops",
+        "variant": "BLACK MIX",
+        "list_position": "6.0",
+        "quantity": "1.0",
+        "price": "38.0"
+    }
+]
